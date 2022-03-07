@@ -1,0 +1,14 @@
+size 3
+
+manual red
+set 1 1 1 b
+set 1 2 2 r
+set 1 1 2 b
+set 2 2 2 r
+
+dump
+auto red
+auto blue
+#*move/win+
+
+quit
